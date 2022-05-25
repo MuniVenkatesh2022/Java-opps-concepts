@@ -56,7 +56,7 @@ public class ArrayDemo {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		// TODO Auto-generated method stub
 		Min_Max obj=new Min_Max();
-	
+		obj.findMinMax();
 		obj.arrayOfOdd();
 	}
 
